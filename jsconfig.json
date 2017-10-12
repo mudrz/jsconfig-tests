@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "App/*": ["./App/*"],
+      "Zz/*": ["/Zz/*"],
+      "Bb/*": ["Bb/*"]
+    }
+  },
+  "include": ["**/*.js"]
+}
