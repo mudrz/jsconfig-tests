@@ -1,0 +1,6 @@
+{
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^2.6.0-dev.20171018"
+  }
+}
