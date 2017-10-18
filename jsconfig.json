@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "App/*": ["./App/*"],
+      "App/*": ["./ClientApp/*"],
       "Zz/*": ["/Zz/*"],
       "Bb/*": ["Bb/*"],
       "Vv/*": ["./*"]
